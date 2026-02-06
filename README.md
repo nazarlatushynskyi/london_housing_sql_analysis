@@ -22,9 +22,6 @@ and present insights in an interactive dashboard.
 
 \- Power BI (data visualization \& dashboarding)
 
-\- SQL (GROUP BY, aggregates, filtering)
-
-
 
 ---
 
